@@ -1,4 +1,5 @@
 let p1Button = document.querySelector("#p1Button");
+
 let p2Button = document.querySelector("#p2Button");
 let p1Display = document.querySelector("#p1Display");
 let p2Display = document.querySelector("#p2Display");

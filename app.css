@@ -3,9 +3,11 @@ body {
   margin: 0;
   padding: 0px;
 }
+
 .card-content {
   background-color: #90e0ef;
 }
+
 .card-header {
   background-color: wheat;
 }
